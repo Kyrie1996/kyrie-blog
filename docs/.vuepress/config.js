@@ -2,6 +2,9 @@ module.exports = {
   title: 'Kyrie Blog',
   description: 'Just playing',
   plugins: ['autobar'],
+  markdown: {
+    lineNumbers: true
+  },
   themeConfig: {
     logo: '/logo.jpg',
     nav:[
