@@ -196,6 +196,9 @@ Gecko渲染过程
 
 ![节点](/brower/css5.gif)
 
-:::tip 参考文章
-  <https://zhuanlan.zhihu.com/p/25876048>
+:::tip 相关文章
+
+  你不知道的 DOMContentLoaded: <https://zhuanlan.zhihu.com/p/25876048>
+
+  原来 CSS 与 JS 是这样阻塞 DOM 解析和渲染的: <https://juejin.cn/post/6844903497599549453>
 :::
